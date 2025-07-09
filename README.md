@@ -19,7 +19,7 @@ If you find FAITHSCORE useful, please cite:
 
     ```
 
-## Running FaithScore using Pip Package
+## Running FIFA using Pip Package
 TO DO
 
 ## Running FaithScore using a Command Line
