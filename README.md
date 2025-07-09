@@ -2,7 +2,7 @@
 
 
 This is the official release accompanying our paper, [FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation
-](https://aclanthology.org/2024.findings-emnlp.290/). FIFA will be available as a PIP package as well.
+](). FIFA will be available as a PIP package as well.
 
 If you find FAITHSCORE useful, please cite:
 ```
