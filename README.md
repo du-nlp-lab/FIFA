@@ -26,6 +26,7 @@ If you find FAITHSCORE useful, please cite:
 1. Clone the repo
 ```
 git clone https://github.com/du-nlp-lab/FIFA.git
+cd FIFA/fifa
 ```
 
 TO DO
