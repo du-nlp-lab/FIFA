@@ -67,7 +67,7 @@ vqamodel = Qwen25VLGenerator(model_name="Qwen/Qwen2.5-VL-32B-Instruct")
 
 - If you want to use other VideoLLMs, please rewrite BaseVQAGenerator in videoqa.py
 
-### Step 3: Evaluate your task
+### Step 3: Finish your evaluation task
 
 - Example for Text2Video.
 ```
