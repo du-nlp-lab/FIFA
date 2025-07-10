@@ -2,11 +2,18 @@
 
 
 This is the official release accompanying our paper, [FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation
-](). FIFA will be available as a PIP package as well.
+](https://arxiv.org/abs/2507.06523). FIFA will be available as a PIP package as well.
 
 If you find FAITHSCORE useful, please cite:
 ```
-@inproceedings{jing
+@misc{jing2025fifaunifiedfaithfulnessevaluation,
+      title={FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation}, 
+      author={Liqiang Jing and Viet Lai and Seunghyun Yoon and Trung Bui and Xinya Du},
+      year={2025},
+      eprint={2507.06523},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.06523}, 
 }
 ```
 
@@ -40,4 +47,4 @@ You can download our [annotation dataset]().
 You can download our [automatic evaluation benchmarks]().
 
 ## Leaderboard
-
+TODO
