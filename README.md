@@ -33,6 +33,7 @@ cd FIFA/fifa
 pytorch
 transformers
 openai
+tqdm
 Any requirements for your LLM/Multimodal LLM
 ```
 3. See examples for your evaluation. The example is placed in fifa/evaluate.py.
