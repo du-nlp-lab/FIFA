@@ -30,7 +30,10 @@ cd FIFA/fifa
 ```
 2. Install requirements
 ```
-TO DO
+pytorch
+transformers
+openai
+Any requirements for your LLM/Multimodal LLM
 ```
 3. See examples for your evaluation. The example is placed in fifa/evaluate.py.
 
