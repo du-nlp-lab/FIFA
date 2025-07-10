@@ -23,8 +23,10 @@ If you find FAITHSCORE useful, please cite:
 
 ## Install
 
+1. Clone the repo
+```
 
-    ```
+```
 
 TO DO
 
