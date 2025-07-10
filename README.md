@@ -85,7 +85,7 @@ eval_text2video(data, save=False, n_parallel_workers=1, cache_dir="./results",  
 ```
 from eval_video2text import eval_video2text
 ## SHOW for Data Format
-data = [{"prompt": "text", "video_path": "xx.mp4", "question": "question"}, {"prompt": "text", "video_path": "xx.mp4", "question": "question"}]
+data = [{"prompt": "model response", "video_path": "xx.mp4", "question": "question"}, {"prompt": "model response", "video_path": "xx.mp4", "question": "question"}]
 eval_video2text(data, save=False, n_parallel_workers=1, cache_dir="./results", llm=llm, vqamodel=model)
 ```
 
