@@ -42,7 +42,7 @@ Any requirements for your LLM/Multimodal LLM
 - If you want to use OpenAI LLMs
 ```
 from llm_api import OpenaiLLM
-llm = OpenaiLLM(model_name="gpt-4o", api_key=None, NUM_SECONDS_TO_SLEEP=10)
+llm = OpenaiLLM(model_name="gpt-4o", api_key="your-api-key", NUM_SECONDS_TO_SLEEP=10)
 ```
 
 - If you want to use qwen
