@@ -48,7 +48,7 @@ llm = OpenaiLLM(model_name="gpt-4o", api_key=None, NUM_SECONDS_TO_SLEEP=10)
 - If you want to use qwen
 ```
 from llm_api import Qwen3LLM
-llm = Qwen3LLM(model_name="Qwen/Qwen3-8B")
+llm = Qwen3LLM(model_name="Qwen/Qwen3-32B")
 ```
 
 
